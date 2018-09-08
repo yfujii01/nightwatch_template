@@ -1,0 +1,7 @@
+.lib/
+screenshot/
+*.log
+result.txt
+*.war
+test_error/
+reports/
